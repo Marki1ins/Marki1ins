@@ -34,7 +34,7 @@
 ## 🔥 Meus repos favoritos
 
 <div align="center">
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marki1ins&repo=project-esports&theme=react&hide_border=true)](https://github.com/Marki1ins/project-esports)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Marki1ins&repo=project-esports)](https://github.com/Marki1ins/project-esports)
 </div>
  
 
