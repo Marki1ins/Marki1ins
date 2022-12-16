@@ -35,7 +35,7 @@
 
 <div align="center">
  <a href="https://github.com/Marki1ins/project-esports">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marki1ins&repo=project-esports=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marki1ins&repo=project-esports&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/Marki1ins/lab-ds">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marki1ins&repo=lab-ds&theme=react&hide_border=true" />
