@@ -6,4 +6,9 @@
 
 ![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Marki1ins&show_icons=true&theme=transparent)
 
-<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"> 
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
+ <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
+ <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">      
+ <img src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+ <img src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">      
+ <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp" width="100">
