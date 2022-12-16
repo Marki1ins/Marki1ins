@@ -34,11 +34,11 @@
 ## 🔥 Meus repos favoritos
 
 <div align="center">
- <a href="https://github.com/Ricmaloy/FalaDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricmaloy&repo=FalaDev&theme=react&hide_border=true" />
+ <a href="https://github.com/Marki1ins/FalaDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marki1ins&repo=FalaDev&theme=react&hide_border=true" />
 </a>
 <a href="https://github.com/Ricmaloy/NLW-7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricmaloy&repo=NLW-7&theme=react&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marki1ins&repo=NLW-7&theme=react&hide_border=true" />
 </a>
 </div>
  
