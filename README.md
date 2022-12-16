@@ -6,4 +6,5 @@
 
 ![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Marki1ins&show_icons=true&theme=transparent)
 
-<iframe src="https://giphy.com/embed/Sr8xDpMwVKOHUWDVRD" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-html-edr-escueladevrock-Sr8xDpMwVKOHUWDVRD">via GIPHY</a></p>
+<img src="[https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp](https://giphy.com/embed/Sr8xDpMwVKOHUWDVRD)" width="100"> 
+
