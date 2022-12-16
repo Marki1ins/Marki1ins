@@ -6,5 +6,4 @@
 
 ![Marcos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Marki1ins&show_icons=true&theme=transparent)
 
-<img src="ttps://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="100"> 
-
+<img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp" width="100"> 
