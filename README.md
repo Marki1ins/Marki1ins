@@ -1,19 +1,19 @@
-<h1 align="center" >Fala Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center" >Hey Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-## 💡 Sobre mim :
- - *Me chamo Marcos Vinícius Carvalho e sou do Distrito Federal* 
+## 💡 About me :
+ - *My name is Marcos Vinícius Carvalho and I'm from the Federal District* 
 
- - *Sou formado em Letras Inglês - Lincenciatura* 
+ - *I'm graduated in English Language* 
  
- - *Apaixonado por Desenvolvimento Web, em especial por Front End 💙* 
+ - *Passionate about Web Development, especially Front End 💙* 
  
- - *Amante da educação e de compartilhar conhecimento* 
+ - *Lover of education and sharing knowledge* 
 
 
-## 🔮 Minha Stack
- Essas são algumas das tecnologias que uso no dia a dia
+## 🔮 My Stack
+ These are some of the technologies I use on a daily basis:
 
 <div align="center">
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
@@ -23,7 +23,7 @@
  <img src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
 </div>
 
-## 📈 Estatísticas
+## 📈 Statistics
 
 <div align="center">
   <a href="https://github.com/Marki1ins/project-esports">
@@ -31,7 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marki1ins&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
-## 🔥 Meus repos favoritos
+## 🔥 My favorites repos
 
 <div align="center">
   <a href="https://github.com/Marki1ins/project-esports">
@@ -43,9 +43,9 @@
 </div>
  
 
-## :speech_balloon: Vamos conversar  
+## :speech_balloon: Let's chat  
 
-Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
+You can find me on any of my social media below! 
 
 <div align="center">
   <a href="https://github.com/Marki1ins"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/_markiins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/marcos-vin%C3%ADcius-de-freitas-carvalho-43633121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
