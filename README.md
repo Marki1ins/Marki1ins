@@ -3,7 +3,7 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 About me :
- - *My name is Marcos Vinícius Carvalho and I'm from the Distrito Federal - Brazil* 
+ - *My name is Marcos Vinícius Carvalho and I'm from Distrito Federal - Brazil* 
 
  - *I'm graduated in English Language* 
  
