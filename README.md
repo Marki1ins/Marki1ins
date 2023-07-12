@@ -15,7 +15,7 @@
 ## 🔮 My Stack
  These are some of the technologies I use on a daily basis:
 
-<div align="center">
+<div align="center" style="display: flex; gap: 20px;">
  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="100">
  
  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" width="100">
