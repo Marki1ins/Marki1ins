@@ -31,18 +31,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marki1ins&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
-## 🔥 My favorites repos
-
-<div align="center">
-  <a href="https://github.com/Marki1ins/project-esports">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marki1ins&repo=project-esports&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/Marki1ins/lab-ds">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marki1ins&repo=frontend-challenge&theme=react&hide_border=true" />
-  </a>
-</div>
- 
-
 ## :speech_balloon: Let's chat  
 
 You can find me on any of my social media below! 
