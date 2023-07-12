@@ -25,7 +25,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="100">
 </div>
 
-## 💼 Favorite Repos
+## 🐈‍⬛ My Git Status
 
 <div align="center">
   <img height="165em" alt="Marcos Carvalho's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marki1ins&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
