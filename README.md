@@ -23,14 +23,6 @@
  <img src="https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
 </div>
 
-## 📈 Statistics
-
-<div align="center">
-  <a href="https://github.com/Marki1ins/project-esports">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marki1ins&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marki1ins&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-
 ## :speech_balloon: Let's chat  
 
 You can find me on any of my social media below! 
