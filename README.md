@@ -3,13 +3,13 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ### About me 💡
- - *My name is Marcos Vinícius Carvalho and I'm from Distrito Federal - Brazil* 
+ - My name is Marcos Vinícius Carvalho and I'm from Distrito Federal - Brazil 
 
- - *I'm graduated in English Language* 
+ - I'm graduated in English Language 
  
- - *Passionate about Web Development, especially Front End 💙* 
+ - Passionate about Web Development, especially Front End 💙 
  
- - *Lover of education and sharing knowledge* 
+ - Lover of education and sharing knowledge 
 
 ### Technologies 📦
 
@@ -29,14 +29,14 @@
 <code><img height="27" src="https://cdn.simpleicons.org/fastify/99aab5" alt="fastify"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/prisma/99aab5" alt="prisma"></code>
 
-### Frameworks ⚡️
+### Frameworks ⚡
 
 <code><img height="27" src="https://cdn.simpleicons.org/next.js/99aab5" alt="next.js"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/express/99aab5" alt="express"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/tailwindcss/99aab5" alt="tailwindcss"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/bootstrap/99aab5" alt="bootstrap"></code>
 
-### Tools ⚙️
+### Tools ⚙
 
 <code><img height="27" src="https://cdn.simpleicons.org/visualstudiocode/99aab5" alt="vscode"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github"></code>
@@ -49,9 +49,15 @@
 ### Working Methodologies 🦺
 
 - Scrum 🤝
-- Extreme Programming 🏃‍♂️
+- Extreme Programming 🏃‍♂
 
-### My Git Status 🐈‍⬛
+### My Personal Stats 📊
+
+<detail open>
+  <summary><b>🌱 Most used languages</b></summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marki1ins&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</detail>
 
 <div align="center">
   <img height="165em" alt="Marcos Carvalho's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marki1ins&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
@@ -59,8 +65,6 @@
 </div>
 
 ### Let's chat :speech_balloon:
-
-
 
 <div align="center">
   <a href="https://github.com/Marki1ins"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/_markiins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/marcos-carvalho-43633121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
