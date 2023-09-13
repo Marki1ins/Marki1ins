@@ -53,16 +53,17 @@
 
 ### My Personal Stats 📊
 
-<detail open>
+<details open>
   <summary><b>🌱 Most used languages</b></summary>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marki1ins&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</detail>
+</details>
 
-<div align="center">
-  <img height="165em" alt="Marcos Carvalho's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marki1ins&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img height="165em" alt="Marcos Carvalhos's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marki1ins&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</div>
+<details open>
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marki1ins&theme=react&hide_border=true"/>
+</details>
 
 ### Let's chat :speech_balloon:
 
