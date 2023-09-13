@@ -11,20 +11,6 @@
  
  - *Lover of education and sharing knowledge* 
 
-
-## 🔮 My Stack
- These are some of the technologies I use on a daily basis:
-
-<div align="center" style="display: flex; gap: 20px;">
- <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="100">
- <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" width="100">
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="100"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="100"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100"> 
- <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="100"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="100">
-</div>
-
 ### Technologies 📦
 
 <code><img height="27" src="https://cdn.simpleicons.org/html5/99aab5" alt="html5"></code>
@@ -33,7 +19,6 @@
 <code><img height="27" src="https://cdn.simpleicons.org/typescript/99aab5" alt="typescript"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/node.js/99aab5" alt="node.js"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/sqlite/99aab5" alt="sqlite"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/mongodb/99aab5" alt="mongodb"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/mysql/99aab5" alt="mysql"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/postgresql/99aab5" alt="postgresql"></code>
 
