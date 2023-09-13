@@ -1,15 +1,22 @@
-<h1 align="center" >Hey Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+## Hey Dev 👋, I'm [Marcos Vinícius](https://github.com/Marki1ins/) | English Teacher and Web Developer 
 
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+### About me ✨
 
-### About me 💡
- - My name is Marcos Vinícius Carvalho and I'm from Distrito Federal - Brazil 
+ - I'm from Distrito Federal - Brazil. 🗺️
 
- - I'm graduated in English Language 
+ - I'm graduated in English Language and now I'm studying Software Engineering. 📚
+
+ - I discovered my love for coding when I started learning JavaScript, and I've been hooked ever since. 🤝
  
- - Passionate about Web Development, especially Front End 💙 
- 
- - Lover of education and sharing knowledge 
+ - I'm passionate about technology and constantly strive to improve my skills and knowledge. 👌
+
+ - I'm excited to see where my journey as a developer and English teacher takes me. 🚀
+
+### Social Medias :speech_balloon:
+
+<a href="https://github.com/Marki1ins"><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github" target="_blank"></a>
+<a href="https://instagram.com/_markiins"><img height="27" src="https://cdn.simpleicons.org/instagram/99aab5" alt="instagram" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcos-carvalho-43633121a/"><img height="27" src="https://cdn.simpleicons.org/linkedin/99aab5" alt="linkedin" target="_blank"></a>
 
 ### Technologies 📦
 
@@ -56,15 +63,11 @@
 <details open>
   <summary><b>🌱 Most used languages</b></summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marki1ins&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marki1ins&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </details>
 
-### Let's chat :speech_balloon:
-
-<div align="center">
-  <a href="https://github.com/Marki1ins"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/_markiins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/marcos-carvalho-43633121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
- 
-#
- 
-![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
+<details open>
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marki1ins&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+</details>
