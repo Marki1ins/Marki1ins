@@ -59,12 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marki1ins&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </details>
 
-<details open>
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marki1ins&theme=react&hide_border=true"/>
-</details>
-
 ### Let's chat :speech_balloon:
 
 <div align="center">
