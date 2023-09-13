@@ -2,7 +2,7 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-## 💡 About me :
+### About me 💡
  - *My name is Marcos Vinícius Carvalho and I'm from Distrito Federal - Brazil* 
 
  - *I'm graduated in English Language* 
@@ -27,6 +27,7 @@
 <code><img height="27" src="https://cdn.simpleicons.org/react/99aab5" alt="react"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/axios/99aab5" alt="axios"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/fastify/99aab5" alt="fastify"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/prisma/99aab5" alt="prisma"></code>
 
 ### Frameworks ⚡️
 
@@ -45,16 +46,19 @@
 <code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma"></code>
 
-## 🐈‍⬛ My Git Status
+### Working Methodologies 🦺
+
+- Scrum 🤝
+- Extreme Programming 🏃‍♂️
+
+### My Git Status 🐈‍⬛
 
 <div align="center">
   <img height="165em" alt="Marcos Carvalho's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marki1ins&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img height="165em" alt="Marcos Carvalhos's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marki1ins&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 
-## :speech_balloon: Let's chat  
-
-You can find me on any of my social media below! 
+### Let's chat :speech_balloon:
 
 <div align="center">
   <a href="https://github.com/Marki1ins"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/_markiins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/marcos-carvalho-43633121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
