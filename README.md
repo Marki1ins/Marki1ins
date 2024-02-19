@@ -40,7 +40,6 @@
 <code><img height="27" src="https://cdn.simpleicons.org/express/99aab5" alt="express"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/tailwindcss/99aab5" alt="tailwindcss"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/bootstrap/99aab5" alt="bootstrap"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/springboot/99aab5" alt="springboot"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/hibernate/99aab5" alt="hibernate"></code>
 
 ### Frameworks ⚡
@@ -49,6 +48,7 @@
 <code><img height="27" src="https://cdn.simpleicons.org/vite/99aab5" alt="vite"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/angular/99aab5" alt="angular"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/nestjs/99aab5" alt="nestjs"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/springboot/99aab5" alt="springboot"></code>
 
 ### Tools ⚙
 
