@@ -18,6 +18,25 @@
 <a href="https://instagram.com/_markiins"><img height="27" src="https://cdn.simpleicons.org/instagram/99aab5" alt="instagram" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcos-carvalho-43633121a/"><img height="27" src="https://cdn.simpleicons.org/linkedin/99aab5" alt="linkedin" target="_blank"></a>
 
+### Tools ⚙
+
+<code><img height="27" src="https://cdn.simpleicons.org/awslambda/99aab5" alt="aws lambda"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/amazons3/99aab5" alt="aws s3"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/wordpress/99aab5" alt="wordpress"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/docker/99aab5" alt="docker"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/heroku/99aab5" alt="heroku"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/netlify/99aab5" alt="netlify"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/vercel/99aab5" alt="vercel"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/visualstudiocode/99aab5" alt="vscode"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/insomnia/99aab5" alt="insomnia"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/hoppscotch/99aab5" alt="hoppscotch"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/clickup/99aab5" alt="clickup"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/trello/99aab5" alt="trello"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/googlemeet/99aab5" alt="google meet"></code>
+
 ### Technologies 📦
 
 <code><img height="27" src="https://cdn.simpleicons.org/html5/99aab5" alt="html5"></code>
@@ -52,25 +71,6 @@
 <code><img height="27" src="https://cdn.simpleicons.org/angular/99aab5" alt="angular"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/nestjs/99aab5" alt="nestjs"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/springboot/99aab5" alt="springboot"></code>
-
-### Tools ⚙
-
-<code><img height="27" src="https://cdn.simpleicons.org/awslambda/99aab5" alt="aws lambda"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/amazons3/99aab5" alt="aws s3"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/wordpress/99aab5" alt="wordpress"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/docker/99aab5" alt="docker"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/heroku/99aab5" alt="heroku"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/netlify/99aab5" alt="netlify"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/vercel/99aab5" alt="vercel"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/visualstudiocode/99aab5" alt="vscode"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/insomnia/99aab5" alt="insomnia"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/hoppscotch/99aab5" alt="hoppscotch"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/clickup/99aab5" alt="clickup"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/trello/99aab5" alt="trello"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/googlemeet/99aab5" alt="google meet"></code>
 
 ### Working Methodologies 🦺
 
