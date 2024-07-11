@@ -1,16 +1,16 @@
-## Hey Dev 👋, I'm [Marcos Vinícius](https://github.com/marcosdfcarvalho/) | English Teacher and Web Developer 
+## Hey Dev 👋, I'm [Marcos Vinícius](https://github.com/marcosdfcarvalho/) | Software Engineer
 
 ### About me ✨
 
  - I'm from Distrito Federal - Brazil. 🗺️
 
- - I'm graduated in English Language and now I'm studying Software Engineering. 📚
+ - I'm graduated in English Language and now I'm studying Software Engineering and Artifical Inteligence & Machine Learning. 📚
 
  - I discovered my love for coding when I started learning JavaScript, and I've been hooked ever since. 🤝
  
  - I'm passionate about technology and constantly strive to improve my skills and knowledge. 👌
 
- - I'm excited to see where my journey as a developer and English teacher takes me. 🚀
+ - I'm excited to see where my journey as a Software Engineer and English teacher takes me. 🚀
 
 ### Tools ⚙
 
