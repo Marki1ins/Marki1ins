@@ -12,12 +12,6 @@
 
  - I'm excited to see where my journey as a developer and English teacher takes me. 🚀
 
-### Social Medias :speech_balloon:
-
-<a href="https://github.com/Marki1ins"><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github" target="_blank"></a>
-<a href="https://instagram.com/_markiins"><img height="27" src="https://cdn.simpleicons.org/instagram/99aab5" alt="instagram" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcos-carvalho-43633121a/"><img height="27" src="https://cdn.simpleicons.org/linkedin/99aab5" alt="linkedin" target="_blank"></a>
-
 ### Tools ⚙
 
 <code><img height="27" src="https://cdn.simpleicons.org/awslambda/99aab5" alt="aws lambda"></code>
@@ -71,6 +65,12 @@
 <code><img height="27" src="https://cdn.simpleicons.org/angular/99aab5" alt="angular"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/nestjs/99aab5" alt="nestjs"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/springboot/99aab5" alt="springboot"></code>
+
+### Social Medias :speech_balloon:
+
+<a href="https://github.com/Marki1ins"><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github" target="_blank"></a>
+<a href="https://instagram.com/_markiins"><img height="27" src="https://cdn.simpleicons.org/instagram/99aab5" alt="instagram" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcos-carvalho-43633121a/"><img height="27" src="https://cdn.simpleicons.org/linkedin/99aab5" alt="linkedin" target="_blank"></a>
 
 ### Working Methodologies 🦺
 
