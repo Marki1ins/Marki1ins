@@ -25,6 +25,9 @@
 <code><img height="27" src="https://cdn.simpleicons.org/typescript/99aab5" alt="typescript"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/node.js/99aab5" alt="node.js"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/OpenJDK/99aab5" alt="Java"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/php/99aab5" alt="php"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/npm/99aab5" alt="npm"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/yarn/99aab5" alt="yarn"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/apachemaven/99aab5" alt="apachemaven"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/sqlite/99aab5" alt="sqlite"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/mysql/99aab5" alt="mysql"></code>
@@ -52,18 +55,20 @@
 
 ### Tools ⚙
 
+<code><img height="27" src="https://cdn.simpleicons.org/awslambda/99aab5" alt="aws lambda"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/amazons3/99aab5" alt="aws s3"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/wordpress/99aab5" alt="wordpress"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/docker/99aab5" alt="docker"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/heroku/99aab5" alt="heroku"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/netlify/99aab5" alt="netlify"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/visualstudiocode/99aab5" alt="vscode"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/vercel/99aab5" alt="vercel"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/visualstudiocode/99aab5" alt="vscode"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/insomnia/99aab5" alt="insomnia"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/azuredevops/99aab5" alt="azuredevops"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/clickup/99aab5" alt="clickup"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/trello/99aab5" alt="trello"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/microsoftteams/99aab5" alt="microsoft teams"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/googlemeet/99aab5" alt="google meet"></code>
 
 ### Working Methodologies 🦺
