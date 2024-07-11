@@ -4,7 +4,7 @@
 
  - I'm from Distrito Federal - Brazil. 🗺️
 
- - I'm graduated in English Language and now I'm studying Software Engineering and Artifical Inteligence & Machine Learning. 📚
+ - I'm graduated in English Language and postgraduate degree in Software Engineering and Artifical Inteligence & Machine Learning. 📚
 
  - I discovered my love for coding when I started learning JavaScript, and I've been hooked ever since. 🤝
  
