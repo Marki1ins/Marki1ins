@@ -66,6 +66,7 @@
 <code><img height="27" src="https://cdn.simpleicons.org/visualstudiocode/99aab5" alt="vscode"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/insomnia/99aab5" alt="insomnia"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/hoppscotch/99aab5" alt="hoppscotch"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/figma/99aab5" alt="figma"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/clickup/99aab5" alt="clickup"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/trello/99aab5" alt="trello"></code>
