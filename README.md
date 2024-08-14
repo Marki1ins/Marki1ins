@@ -17,7 +17,9 @@
 <code><img height="27" src="https://cdn.simpleicons.org/awslambda/99aab5" alt="aws lambda"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/amazons3/99aab5" alt="aws s3"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/wordpress/99aab5" alt="wordpress"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/googleanalytics/99aab5" alt="google analytics"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/docker/99aab5" alt="docker"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/hostinger/99aab5" alt="hostinger"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/heroku/99aab5" alt="heroku"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/netlify/99aab5" alt="netlify"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/vercel/99aab5" alt="vercel"></code>
@@ -41,6 +43,7 @@
 <code><img height="27" src="https://cdn.simpleicons.org/npm/99aab5" alt="npm"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/yarn/99aab5" alt="yarn"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/apachemaven/99aab5" alt="apachemaven"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/graphql/99aab5" alt="graphql"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/sqlite/99aab5" alt="sqlite"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/mysql/99aab5" alt="mysql"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/postgresql/99aab5" alt="postgresql"></code>
@@ -51,10 +54,13 @@
 <code><img height="27" src="https://cdn.simpleicons.org/react/99aab5" alt="react"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/axios/99aab5" alt="axios"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/fastify/99aab5" alt="fastify"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/typeorm/99aab5" alt="typeorm"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/prisma/99aab5" alt="prisma"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/elastic/99aab5" alt="elastic"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/express/99aab5" alt="express"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/tailwindcss/99aab5" alt="tailwindcss"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/bootstrap/99aab5" alt="bootstrap"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/styledcomponents/99aab5" alt="styledcomponents"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/hibernate/99aab5" alt="hibernate"></code>
 
 ### Frameworks ⚡
