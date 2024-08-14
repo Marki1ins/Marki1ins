@@ -1,4 +1,4 @@
-## Hey Dev 👋, I'm [Marcos Vinícius](https://github.com/marcosdfcarvalho/) | Software Engineer
+## Hey Dev 👋, I'm Marcos Vinícius | Software Engineer
 
 ### About me ✨
 
