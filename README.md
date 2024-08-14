@@ -22,7 +22,6 @@
 <code><img height="27" src="https://cdn.simpleicons.org/netlify/99aab5" alt="netlify"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/vercel/99aab5" alt="vercel"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/github/99aab5" alt="github"></code>
-<code><img height="27" src="https://cdn.simpleicons.org/visualstudiocode/99aab5" alt="vscode"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/insomnia/99aab5" alt="insomnia"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/postman/99aab5" alt="postman"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/hoppscotch/99aab5" alt="hoppscotch"></code>
