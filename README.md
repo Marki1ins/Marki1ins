@@ -60,6 +60,7 @@
 ### Frameworks ⚡
 
 <code><img height="27" src="https://cdn.simpleicons.org/next.js/99aab5" alt="next.js"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/remix/99aab5" alt="remix"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/vite/99aab5" alt="vite"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/angular/99aab5" alt="angular"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/nestjs/99aab5" alt="nestjs"></code>
