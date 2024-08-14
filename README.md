@@ -14,6 +14,7 @@
 
 ### Tools ⚙
 
+<code><img height="27" src="https://cdn.simpleicons.org/amazonwebservices/99aab5" alt="amazon web services"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/awslambda/99aab5" alt="aws lambda"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/amazons3/99aab5" alt="aws s3"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/wordpress/99aab5" alt="wordpress"></code>
@@ -45,6 +46,7 @@
 <code><img height="27" src="https://cdn.simpleicons.org/yarn/99aab5" alt="yarn"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/apachemaven/99aab5" alt="apachemaven"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/graphql/99aab5" alt="graphql"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/redis/99aab5" alt="redis"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/sqlite/99aab5" alt="sqlite"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/mysql/99aab5" alt="mysql"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/postgresql/99aab5" alt="postgresql"></code>
@@ -69,6 +71,7 @@
 <code><img height="27" src="https://cdn.simpleicons.org/next.js/99aab5" alt="next.js"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/remix/99aab5" alt="remix"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/vite/99aab5" alt="vite"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/expo/99aab5" alt="expo"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/angular/99aab5" alt="angular"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/nestjs/99aab5" alt="nestjs"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/springboot/99aab5" alt="springboot"></code>
