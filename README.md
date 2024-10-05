@@ -40,6 +40,7 @@
 <code><img height="27" src="https://cdn.simpleicons.org/css3/99aab5" alt="css3"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/typescript/99aab5" alt="typescript"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/node.js/99aab5" alt="node.js"></code>
+<code><img height="27" src="https://cdn.simpleicons.org/dart/99aab5" alt="dart"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/OpenJDK/99aab5" alt="Java"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/php/99aab5" alt="php"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/npm/99aab5" alt="npm"></code>
@@ -68,6 +69,7 @@
 
 ### Frameworks ⚡
 
+<code><img height="27" src="https://cdn.simpleicons.org/flutter/99aab5" alt="next.js"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/next.js/99aab5" alt="next.js"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/remix/99aab5" alt="remix"></code>
 <code><img height="27" src="https://cdn.simpleicons.org/vite/99aab5" alt="vite"></code>
